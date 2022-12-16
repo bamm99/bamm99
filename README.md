@@ -3,7 +3,7 @@
 ###
 👨‍🎓 I am studying Engineering in computing and informatics execution at the University of Bío-Bío
 ###
-🌱 I'm currently learning Python
+🌱 I'm currently learning Python and C++
 
 <!--
 **bamm99/bamm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
